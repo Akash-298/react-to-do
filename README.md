@@ -11,7 +11,7 @@ This is a simple To-Do application built with React.js. It allows users to add, 
 3. Install the necessary dependencies with `npm install`.
 4. Start the development server with `npm start`.
 
-The application will be available at `http://localhost:3000`.
+The application will be available at `http://localhost:3000](http://todoakashapp.netlify.app/`.
 
 ## Usage Instructions
 
