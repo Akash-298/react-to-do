@@ -19,9 +19,5 @@ The application will be available at `http://todoakashapp.netlify.app/`.
 
 After starting the application, you can add a new task by typing into the input field and pressing enter. Existing tasks can be edited or deleted as needed.
 
-*Note: Screenshots and a demo video will be added soon.*
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request.
 
